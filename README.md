@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d9b9bc0e-f1cd-4834-8d53-43e076b0da80" />
+
+
+
 # AppAutoInstaller 🤓
 
 Um script de instalação automática de aplicativos para Windows, desenvolvido em PowerShell, com foco em agilizar processos de formatação, padronização de ambientes e preparação de máquinas.
