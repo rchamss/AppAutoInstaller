@@ -50,4 +50,9 @@ foreach ($instalador in $Apps) {
 
         Write-Host "$NomeApp instalado" -ForegroundColor Cyan
     }
-}                                                         
+
+}
+
+[console]::beep(800, 200)
+[console]::beep(1000, 200)
+[console]::beep(1200, 400)
